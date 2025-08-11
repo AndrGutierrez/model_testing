@@ -2,3 +2,5 @@ env
 .venv
 */__pycache__
 *.pdf
+KAN/model
+KAN/figures
